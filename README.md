@@ -1,4 +1,4 @@
-# __pm-notes
+# pm-notes
 
 ## key notes
 
